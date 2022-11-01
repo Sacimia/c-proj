@@ -1,0 +1,40 @@
+Constantes / Variavéis 
+
+Como nome sugere, uma constante é uma entidade que o valor não troca durante o curso da execução do programa.
+Uma variavél, na outra mão, é uma entidade que o valor pode mudaar durante o curso da execução do programa. 
+constantes de C 
+
+primeiras constantes 
+integer
+real
+character
+
+segundas constantes 
+array
+pointer 
+structure 
+union 
+enum 
+etc
+
+
+Primeiras constantes são dividas em : Integer, Character e Real 
+
+Palavra para Integer é int e o formato específico é %d;
+Palavra para Real é float ou double e o formato específico é %f
+Palavra para Character é char e o formato especifico é %c;
+
+
+Output é um terminal 
+
+a é uma variavel constante e o valor não pode ser trocado durante o curso doo execução do programa.
+
+
+USANDO SCANF 
+
+Exemplo 1
+
+Digite 2 numeros e 1 charactere 
+1 2 i
+
+Você digitou 1 2.00000 e 1;
